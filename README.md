@@ -24,3 +24,10 @@ Number of Data Points: 4000
 7. selection model based on performance
 8. Evaluation 
 9. Plot ROC and AUC curve
+
+#Conclusion:-
+From the EDA we observe that , the specialization is dependent on the gender.
+
+The fresher who has done CSE and have got into analyst,engineer etc position have an maximum salary of 5.6lakh and minimum of 50k.
+
+With experience the there is a hike in the salary
